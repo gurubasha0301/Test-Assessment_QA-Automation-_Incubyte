@@ -10,7 +10,7 @@ Feature: User Registration
       | Field      | Value                |
       | First Name | Safiya                 |
       | Last Name  | Guru                  |
-      | Email      | dh6deyadfd1@gmail.com |
+      | Email      | dh6d5yadfd1@gmail.com |
       | Password   | hKhdr1dfd57@         |
     And I submit the form
     Then I should be redirected to the account dashboard
