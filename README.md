@@ -20,17 +20,18 @@ This project automates the **Sign-Up Flow** for the Magento website (https://mag
 - **Test Design Pattern**: Page Object Model (POM)
 - **Reporting**: Standard Behave reports
 
-## How to Run Tests
+## 🚀 How to Run Tests
 
-   1.Clone this repository:
+1. Clone this repository:
    ```sh
    git clone https://github.com/gurubasha0301/Test-Assessment_QA-Automation-_Incubyte.git
-
-   2.install the required dependencies:
+   
+   install the required dependencies:
    pip install -r requirements.txt
 
-   3.Run the test:
+   Run the test:
    behave features/registration.feature
+
 
 ## Test Documentation
 
@@ -39,8 +40,9 @@ This project automates the **Sign-Up Flow** for the Magento website (https://mag
 
 ## Author
 
-- Name: [Guru Basha]
-- Email: [gurubasha0301@gmail.com]
+- **Name:** [Guru Basha]
+- **Email:** [gurubasha0301@gmail.com]
+
 
 
 
